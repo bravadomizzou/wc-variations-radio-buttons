@@ -4,7 +4,7 @@
  *
  * @author  WooThemes
  * @package WooCommerce/Templates
- * @version 2.5.0
+ * @version 3.0.0
  *
  * Modified to use radio buttons instead of dropdowns
  * @author 8manos
